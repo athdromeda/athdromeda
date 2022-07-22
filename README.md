@@ -1,6 +1,6 @@
-<h1 align="center">Heyo 👋, I’m <span id="me" style="background: linear-gradient(225deg, #00ffd7 0%, #1595ff 100%);
-        ">@athdromeda</span>🧑‍💻</h1>
-
+<h3 align="center">Heyo 👋, I’m <span id="me" style="background: linear-gradient(225deg, #00ffd7 0%, #1595ff 100%);
+        ">@athdromeda</span>🧑‍💻</h3>
+<h4 align="center">"Front-end💻", "Art🖼", "Math🪐"</h4>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
