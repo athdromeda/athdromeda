@@ -10,8 +10,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </h3>
 <h3>
-        ⠀
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=athdromeda&count_private=true&theme=algolia&show_icons=true" alt="athdromeda" />
 </h3>
 
 
