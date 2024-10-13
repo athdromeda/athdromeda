@@ -1,4 +1,4 @@
-```fish
+```elixir
 ~ $ cat readme
 ```
 
